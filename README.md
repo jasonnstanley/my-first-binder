@@ -39,8 +39,13 @@ The goal of this project is to:
 ---
 
 ## 📂 Repository Structure
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── data/ # Sample datasets (if any)
+
 ├── environment.yml # Binder environment configuration
+
 ├── requirements.txt # Python dependencies (optional)
+
 └── README.md # You are here
